@@ -1,10 +1,8 @@
 # ktmt-nhapmon
 
-duong tien minh
+Nguyễn Dương Tiến Minh
 
-25119165
+25119118
 
-cho 10d di
-
-
+Sinh Viên UTE
 
